@@ -1,0 +1,6 @@
+# Datos crudos y procesados: son pesados (TerriData supera 1 GB) y se pueden volver a descargar
+data/
+data processed/
+
+# Jupyter
+.ipynb_checkpoints/
