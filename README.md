@@ -15,10 +15,7 @@ Un proyecto de análisis de datos de **[Carlos Andrés Morales Rojas](https://ww
 
 <br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="figuras/00_cifras_clave_oscuro.png">
-  <img src="figuras/00_cifras_clave.png" alt="Cifras clave: 97 mil barriles diarios, $5 de cada $100 en regalías llegan a la alcaldía, pobreza de 48% a 19%" width="100%">
-</picture>
+<p align="center"><img src="figuras/laminas/lamina_01.png" alt="¿Acacías vive del petróleo? Cifras clave del proyecto" width="620"></p>
 
 <br>
 
@@ -32,59 +29,43 @@ Acacías, en el Meta, produce cerca de **100.000 barriles de petróleo al día**
 
 Acacías es el **segundo municipio productor del Meta**, después de Puerto Gaitán. Sus campos (Chichimene, Castilla y Akacías) sostienen una producción estable desde hace más de una década.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="figuras/01_produccion_acacias_oscuro.png">
-  <img src="figuras/01_produccion_acacias.png" alt="Producción diaria de petróleo de Acacías, 2012 a 2026" width="100%">
-</picture>
+<p align="center"><img src="figuras/laminas/lamina_02.png" alt="Un gigante petrolero" width="620"></p>
 
 ### 2 · Genera mucho, recibe poco
 
 Entre 2013 y 2025 el petróleo de Acacías generó cerca de **8,4 billones de pesos** en regalías. La alcaldía recibió unos **430 mil millones**: alrededor de **$5 de cada $100**. El resto se reparte en el Sistema General de Regalías entre fondos regionales, el departamento y el ahorro.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="figuras/02_generado_vs_recibido_oscuro.png">
-  <img src="figuras/02_generado_vs_recibido.png" alt="Regalías generadas frente a recibidas por la alcaldía de Acacías" width="100%">
-</picture>
+<p align="center"><img src="figuras/laminas/lamina_03.png" alt="Genera mucho, recibe poco" width="620"></p>
 
 ### 3 · Lo que llega se convierte en cemento
 
 Casi **7 de cada 10 pesos** de los proyectos financiados con regalías se fueron a vías, vivienda, acueducto y alcantarillado.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="figuras/03_inversion_por_sector_oscuro.png">
-  <img src="figuras/03_inversion_por_sector.png" alt="Inversión de regalías de la alcaldía por sector" width="100%">
-</picture>
+<p align="center"><img src="figuras/laminas/lamina_04.png" alt="Lo que llega se vuelve cemento" width="620"></p>
 
 ### 4 · Mejor que el promedio, salvo en la universidad
 
 Acacías supera al Meta y a Colombia en servicios públicos, internet, pruebas Saber y seguridad. Pero solo **4 de cada 10 bachilleres** pasan directo a la educación superior, por debajo del departamento y del país.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="figuras/04_indicadores_sociales_oscuro.png">
-  <img src="figuras/04_indicadores_sociales.png" alt="Indicadores sociales de Acacías frente al Meta y Colombia" width="100%">
-</picture>
+<p align="center"><img src="figuras/laminas/lamina_05.png" alt="Mejor que el promedio, salvo en la universidad" width="620"></p>
 
 ### 5 · La pobreza cayó a menos de la mitad
 
 Entre los censos de 2005 y 2018, la pobreza multidimensional en Acacías pasó de **48% a 19%**, una caída mayor que la del Meta y la del país.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="figuras/05_pobreza_censos_oscuro.png">
-  <img src="figuras/05_pobreza_censos.png" alt="Pobreza multidimensional 2005 y 2018 en Acacías y municipios comparables" width="100%">
-</picture>
+<p align="center"><img src="figuras/laminas/lamina_06.png" alt="La pobreza cayó a menos de la mitad" width="620"></p>
 
 ### 6 · La contratación sigue el calendario electoral
 
-Cada enero hay un pico de contratos, pero en años de elecciones presidenciales se dispara justo antes de la Ley de Garantías: **618 contratos en enero de 2026**, frente a unos 200 en un enero normal.
+Cada año arranca con un pico de contratos en enero y febrero (entre 226 y 353 en los años normales). En 2026, la Ley de Garantías prohibió la contratación directa desde el 31 de enero, y todo se adelantó: **618 contratos solo en enero**.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="figuras/06_ley_de_garantias_oscuro.png">
-  <img src="figuras/06_ley_de_garantias.png" alt="Contratos firmados por mes por la Alcaldía de Acacías y periodos de Ley de Garantías" width="100%">
-</picture>
+<p align="center"><img src="figuras/laminas/lamina_07.png" alt="Enero se dispara antes de las elecciones" width="620"></p>
 
 <br>
 
 ## Conclusión
+
+<p align="center"><img src="figuras/laminas/lamina_08.png" alt="Conclusiones del proyecto" width="620"></p>
 
 Acacías produce una enorme riqueza petrolera, pero **solo una fracción pequeña llega a la alcaldía**. Aun así, el municipio está mejor que el promedio en casi todos los indicadores y redujo la pobreza de forma notable. Lo que **no se ve con claridad** es que el aumento de regalías desde 2021 haya cambiado la tendencia de los indicadores, y el acceso a la universidad sigue siendo su punto débil.
 
@@ -121,7 +102,9 @@ El detalle de filtros, archivos y fechas de descarga está en [`fuentes.md`](fue
 | [`04_proyectos_inversion`](notebooks/04_proyectos_inversion.ipynb) | Clasifica la inversión por sector y detecta proyectos para seguimiento |
 | [`05_terridata_indicadores`](notebooks/05_terridata_indicadores.ipynb) | Filtra archivos de hasta 1 GB por pedazos y compara indicadores |
 | [`06_secop_contratacion`](notebooks/06_secop_contratacion.ipynb) | Analiza modalidades, Ley de Garantías y concentración de proveedores, con datos personales anonimizados |
-| [`07_analisis_final`](notebooks/07_analisis_final.ipynb) | Arma la historia y genera las gráficas en modo claro y oscuro |
+| [`07_analisis_final`](notebooks/07_analisis_final.ipynb) | Arma la historia y genera las gráficas de análisis en modo claro y oscuro |
+
+Las láminas del README (`figuras/laminas/`) son un rediseño de presentación de esas gráficas, en formato 1200 × 1500 px, con las mismas cifras.
 
 </details>
 
