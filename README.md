@@ -23,51 +23,51 @@ Acacías, en el Meta, produce cerca de **100.000 barriles de petróleo al día**
 
 <br>
 
-## La historia en seis gráficas
+## La historia en seis preguntas
 
-### 1 · Un gigante petrolero
+### 1 · ¿Cuánto petróleo produce Acacías?
 
-Acacías es el **segundo municipio productor del Meta**, después de Puerto Gaitán. Sus campos (Chichimene, Castilla y Akacías) sostienen una producción estable desde hace más de una década.
+Producción fiscalizada que reporta la Agencia Nacional de Hidrocarburos, campo por campo. Un mismo volumen aparece repetido por cada régimen de regalías, así que antes de sumar se quitaron esas repeticiones; sin ese paso, la producción del Meta quedaba inflada en un 6%.
 
 <p align="center"><img src="figuras/laminas/lamina_02.png" alt="Un gigante petrolero" width="620"></p>
 
-### 2 · Genera mucho, recibe poco
+### 2 · ¿Cuánto de esa riqueza le llega al municipio?
 
-Entre 2013 y 2025 el petróleo de Acacías generó cerca de **8,4 billones de pesos** en regalías. La alcaldía recibió unos **430 mil millones**: alrededor de **$5 de cada $100**. El resto se reparte en el Sistema General de Regalías entre fondos regionales, el departamento y el ahorro.
+Aquí se cruzan dos fuentes que miden cosas distintas: la ANH calcula las regalías que genera el petróleo extraído en Acacías, y SICODIS registra la plata que efectivamente llega a la alcaldía. Todo está en pesos de 2025 para poder comparar años.
 
 <p align="center"><img src="figuras/laminas/lamina_03.png" alt="Genera mucho, recibe poco" width="620"></p>
 
-### 3 · Lo que llega se convierte en cemento
+### 3 · ¿En qué se invierte lo que llega?
 
-Casi **7 de cada 10 pesos** de los proyectos financiados con regalías se fueron a vías, vivienda, acueducto y alcantarillado.
+Proyectos de MapaInversiones cuya entidad responsable es la alcaldía y que se financian con regalías. Solo se cuentan los aprobados (terminados, en ejecución o viables), no los que se quedaron en formulación.
 
 <p align="center"><img src="figuras/laminas/lamina_04.png" alt="Lo que llega se vuelve cemento" width="620"></p>
 
-### 4 · Mejor que el promedio, salvo en la universidad
+### 4 · ¿Se nota en la vida de la gente?
 
-Acacías supera al Meta y a Colombia en servicios públicos, internet, pruebas Saber y seguridad. Pero solo **4 de cada 10 bachilleres** pasan directo a la educación superior, por debajo del departamento y del país.
+Ocho indicadores de TerriData, con el último dato disponible de Acacías, el Meta y Colombia. En azul, donde Acacías está mejor que ambos; en naranja, donde está peor.
 
 <p align="center"><img src="figuras/laminas/lamina_05.png" alt="Mejor que el promedio, salvo en la universidad" width="620"></p>
 
-### 5 · La pobreza cayó a menos de la mitad
+### 5 · ¿Qué pasó con la pobreza?
 
-Entre los censos de 2005 y 2018, la pobreza multidimensional en Acacías pasó de **48% a 19%**, una caída mayor que la del Meta y la del país.
+La pobreza multidimensional por municipio solo se mide con los censos, por eso hay dos puntos: 2005 y 2018. Para comparar, aparecen los otros municipios petroleros del Meta, la capital, el departamento y el país.
 
 <p align="center"><img src="figuras/laminas/lamina_06.png" alt="La pobreza cayó a menos de la mitad" width="620"></p>
 
-### 6 · La contratación sigue el calendario electoral
+### 6 · ¿Cómo contrata la alcaldía?
 
-Cada año arranca con un pico de contratos en enero y febrero (entre 226 y 353 en los años normales). En 2026, la Ley de Garantías prohibió la contratación directa desde el 31 de enero, y todo se adelantó: **618 contratos solo en enero**.
+Contratos de SECOP II firmados mes a mes desde 2021. La Ley de Garantías prohíbe la contratación directa en los cuatro meses antes de las elecciones presidenciales. Los nombres y documentos de las personas contratadas se anonimizaron.
 
 <p align="center"><img src="figuras/laminas/lamina_07.png" alt="Enero se dispara antes de las elecciones" width="620"></p>
 
 <br>
 
-## Conclusión
+## ¿Y entonces?
 
 <p align="center"><img src="figuras/laminas/lamina_08.png" alt="Conclusiones del proyecto" width="620"></p>
 
-Acacías produce una enorme riqueza petrolera, pero **solo una fracción pequeña llega a la alcaldía**. Aun así, el municipio está mejor que el promedio en casi todos los indicadores y redujo la pobreza de forma notable. Lo que **no se ve con claridad** es que el aumento de regalías desde 2021 haya cambiado la tendencia de los indicadores, y el acceso a la universidad sigue siendo su punto débil.
+Estos datos describen lo que pasó, pero no prueban que las regalías hayan causado las mejoras: el paso natural es comparar a Acacías con municipios parecidos que no tienen petróleo.
 
 <br>
 
